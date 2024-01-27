@@ -1,0 +1,3 @@
+Detailed log file is availiable at my GitHub repository: https://github.com/Unknown-Negotiator/WGD_detection_Prunus
+
+Interactive Online Jupyter Notebook with all the code for analysis is availiable here: https://colab.research.google.com/drive/1vl8PQYPZMi0aNtHdFBMrDtY0Q60uXYRu?usp=sharing
